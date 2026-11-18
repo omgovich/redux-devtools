@@ -59,7 +59,7 @@
     "@types/json-schema": "^7.0.15",
     "@types/react": "catalog:",
     "@types/react-dom": "catalog:",
-    "@types/socketcluster-client": "^20.0.0",
+    "@types/socketcluster-client": "^20.0.1",
     "@types/webpack-env": "catalog:",
     "babel-loader": "catalog:",
     "css-loader": "catalog:",
